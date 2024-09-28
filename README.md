@@ -41,3 +41,7 @@
 0. Windows Privilege Escalation for Beginners [tcm-security]
 1. Active Directory Exploitation and Lateral Movement BlackBox [udemy.com-Muhammad Sada]
 2. Attacking Active Directory with Adcanced Techniques With Lab [udemy.com- Security Gurus]
+
+## ThreatHunting
+1. INE – Digital Forensics Professional [hide01]
+2. INE – Threat Hunting Professional  [hide01]
