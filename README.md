@@ -45,3 +45,6 @@
 ## ThreatHunting
 1. INE – Digital Forensics Professional [hide01]
 2. INE – Threat Hunting Professional  [hide01]
+
+## Pentesting on the WEB
+1. Hackingarticle WriteUp [HackingArticle WriteUP Based on LAB](https://www.hackingarticles.in/web-penetration-testing/)
