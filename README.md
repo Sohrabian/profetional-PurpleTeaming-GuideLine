@@ -41,10 +41,14 @@
 0. Windows Privilege Escalation for Beginners [tcm-security]
 1. Active Directory Exploitation and Lateral Movement BlackBox [udemy.com-Muhammad Sada]
 2. Attacking Active Directory with Adcanced Techniques With Lab [udemy.com- Security Gurus]
+3. Active Directory Hacking on Juggernaut Pentesting Academy web page [Juggernaut Pentesting](https://juggernaut-sec.com/category/active-directory-hacking/)
 
 ## ThreatHunting
 1. INE – Digital Forensics Professional [hide01]
 2. INE – Threat Hunting Professional  [hide01]
+
+## Windows Local Privilege Escalation
+1. Windows Local Privilege Escalation on Juggernaut Pentesting Academy [ Juggeranut Pentesting on Windows Privilege Escalation](https://juggernaut-sec.com/category/windows-privilege-escalation/)
 
 ## Linux Privilege Escalation
 1. Linux Privilege Escalation - Full Free Course [youtube.com-hexdump channel]
@@ -53,3 +57,6 @@
 
 ## Pentesting on the WEB
 1. Hackingarticle WriteUp on Hacking Article web page [HackingArticle WriteUP Based on LAB](https://www.hackingarticles.in/web-penetration-testing/)
+
+## RedTeaming On Active Directory in Diteal
+1. RedTeaming On Active Directory in Details for Deep Understanding Attack [Hacking Article AD Attack On Details ](https://www.hackingarticles.in/red-teaming/)
