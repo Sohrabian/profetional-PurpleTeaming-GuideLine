@@ -49,6 +49,7 @@
 ## Linux Privilege Escalation
 1. Linux Privilege Escalation - Full Free Course [youtube.com-hexdump channel]
 2. Linux Privilege Escalation [tcm security]
+3. Linux Privilege Escalation write up with LAB on Juggernaut Pentesting Academy web page  (Juggernaut Pentesting Academy )[https://juggernaut-sec.com/category/linux-privilege-escalation/]
 
 ## Pentesting on the WEB
-1. Hackingarticle WriteUp [HackingArticle WriteUP Based on LAB](https://www.hackingarticles.in/web-penetration-testing/)
+1. Hackingarticle WriteUp on Hacking Article web page [HackingArticle WriteUP Based on LAB](https://www.hackingarticles.in/web-penetration-testing/)
