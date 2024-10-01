@@ -46,5 +46,9 @@
 1. INE – Digital Forensics Professional [hide01]
 2. INE – Threat Hunting Professional  [hide01]
 
+## Linux Privilege Escalation
+1. Linux Privilege Escalation - Full Free Course [youtube.com-hexdump channel]
+2. Linux Privilege Escalation [tcm security]
+
 ## Pentesting on the WEB
 1. Hackingarticle WriteUp [HackingArticle WriteUP Based on LAB](https://www.hackingarticles.in/web-penetration-testing/)
