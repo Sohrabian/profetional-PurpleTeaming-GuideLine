@@ -68,7 +68,7 @@
 - privilege Escalation
 - persistence
 - Defense Evasion
-		
+
 2. Binary-Offensive
 - Initial Access
 
