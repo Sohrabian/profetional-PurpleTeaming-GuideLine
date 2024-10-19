@@ -65,22 +65,17 @@
 
 ## Advanced RedTeaming
 1.secktor7	
-	- privilege Escalation
-	- persistence
-	- Defense Evasion
-
+- privilege Escalation
+- persistence
+- Defense Evasion
 		
 2. Binary-Offensive
-	- Initial Access
-
-	
+- Initial Access
 3.SpectorOPS
-	- RedTeam ActiveDirectory
+- RedTeam ActiveDirectory
 	
-
 4.RTO-2
-	- ZeroPoint Security
-
+- ZeroPoint Security
 
 5.GitHub.com/trustedsec/coffloader
 
