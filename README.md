@@ -61,3 +61,26 @@
 ## RedTeaming On Active Directory in Diteal
 1. RedTeaming On Active Directory in Details for Deep Understanding Attack [Hacking Article AD Attack On Details ](https://www.hackingarticles.in/red-teaming/)
 2. Active Directory Pentesting Juggernaut Pentesting Academy  [Juggernaut Pentesting Academy](https://juggernaut-sec.com/category/active-directory-hacking/)
+
+
+## Advanced RedTeaming
+1.secktor7	
+			privilege Escalation
+			persistence
+			Defense Evasion
+
+		
+2. Binary-Offensive
+			Initial Access
+
+	
+3.SpectorOPS
+			RedTeam ActiveDirectory
+	
+
+4.RTO-2
+			ZeroPoint Security
+
+
+5.GitHub.com/trustedsec/coffloader
+
