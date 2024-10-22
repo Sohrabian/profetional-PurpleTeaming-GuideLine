@@ -72,6 +72,10 @@
 2.13Cubed
 - Investigating Windows Endpoints [hide01]
 
+## Windows Memory Forensic
+1.13Cubed
+- Investigating Windows Endpoints [hide01]
+
 ## Network Forensic
 1.Antisyphon
 - Antisyphon: Network Forensics and Incident Response w/ Troy Wojewoda [hide01]
