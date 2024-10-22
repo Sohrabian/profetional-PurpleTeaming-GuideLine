@@ -57,6 +57,8 @@
 
 ## Pentesting on the WEB
 1. Hackingarticle WriteUp on Hacking Article web page [HackingArticle WriteUP Based on LAB](https://www.hackingarticles.in/web-penetration-testing/)
+2. BlackHat
+- Attacking Injection Flaws Masterclass – Edition 2022 [hide01]
 
 ## RedTeaming On Active Directory in Diteal
 1. RedTeaming On Active Directory in Details for Deep Understanding Attack [Hacking Article AD Attack On Details ](https://www.hackingarticles.in/red-teaming/)
