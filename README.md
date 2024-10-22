@@ -69,6 +69,9 @@
 - Antisyphon: Ransomware Attack Simulation and Investigation for Blue Teamers [hide01]
 - Antisyphon: Advanced Endpoint Investigations [hide01]
 
+2.13Cubed
+- Investigating Windows Endpoints [hide01]
+
 ## Network Forensic
 1.Antisyphon
 - Antisyphon: Network Forensics and Incident Response w/ Troy Wojewoda [hide01]
