@@ -66,9 +66,11 @@
 ## Malware Analysis
 1. BlackHat
 - A Complete Practical Approach To Malware Analysis And Memory Forensics [hide01]
+- A Beginner’s Guide To Reversing With GHIDRA (2021) [hide01]
 
 2. TCM Security
 - Practical Malware Analysis and Triage [hide01]
+
 
 ## Advanced RedTeaming
 1.secktor7	
