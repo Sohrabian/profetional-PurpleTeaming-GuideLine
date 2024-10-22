@@ -80,3 +80,21 @@
 
 5.GitHub.com/trustedsec/coffloader
 
+## Malware Development Basic
+1.secktor7
+- RED TEAM Operator: Malware Development Essentials Course [hide01]
+- RED TEAM Operator: Malware Development Intermediate Course [hide01]
+2. Malware Development in C/C++ [cocomelonc.github.io]
+   - Persistence
+   - Privileg Escalation
+   - Encryption
+   - AV Bypass
+3. Malware Development in C# Offensive [farsi]
+- Malware Development in C# Offensive [private message to][https://www.linkedin.com/in/damonmohammadbagher/]
+4. Code Machine
+- CodeMachine: Windows Malware Techniques [hide01]
+- CodeMachine: Windows Kernel Rootkits [hide01]
+
+## Malware Development Advanced
+1.secktor7
+- RED TEAM Operator: Malware Development Advanced [hide01]
