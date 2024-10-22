@@ -64,6 +64,10 @@
 1. RedTeaming On Active Directory in Details for Deep Understanding Attack [Hacking Article AD Attack On Details ](https://www.hackingarticles.in/red-teaming/)
 2. Active Directory Pentesting Juggernaut Pentesting Academy  [Juggernaut Pentesting Academy](https://juggernaut-sec.com/category/active-directory-hacking/)
 
+## YARA
+1.Applied Network Defense
+- YARA for Security Analysts
+
 ## Windows Forensic
 1.Antisyphon
 - Antisyphon: Ransomware Attack Simulation and Investigation for Blue Teamers [hide01]
