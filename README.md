@@ -63,6 +63,13 @@
 2. Active Directory Pentesting Juggernaut Pentesting Academy  [Juggernaut Pentesting Academy](https://juggernaut-sec.com/category/active-directory-hacking/)
 
 
+## Malware Analysis
+1. BlackHat
+- A Complete Practical Approach To Malware Analysis And Memory Forensics [hide01]
+
+2. TCM Security
+- Practical Malware Analysis and Triage [hide01]
+
 ## Advanced RedTeaming
 1.secktor7	
 - privilege Escalation
