@@ -91,6 +91,7 @@
    - AV Bypass
 3. Malware Development in C# Offensive [farsi]
 - Malware Development in C# Offensive [private message to][https://www.linkedin.com/in/damonmohammadbagher/]
+
 4. Code Machine
 - CodeMachine: Windows Malware Techniques [hide01]
 - CodeMachine: Windows Kernel Rootkits [hide01]
