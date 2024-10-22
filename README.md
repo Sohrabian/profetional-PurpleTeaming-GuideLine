@@ -69,7 +69,7 @@
 - persistence
 - Defense Evasion
 
-2. Binary-Offensive
+2.Binary-Offensive
 - Initial Access
 
 3.SpectorOPS
