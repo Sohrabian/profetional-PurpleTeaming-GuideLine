@@ -104,3 +104,6 @@
   
 2.MalDev Academy
 - https://hide01.ir/red-team-operator-malware-development-intermediate-course/ [hide01]
+
+3.Mr.Un1k0d3r 
+- Mr.Un1k0d3r – Offensive Coding [hide01]
