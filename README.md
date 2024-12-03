@@ -137,3 +137,12 @@
 
 3.Mr.Un1k0d3r 
 - Mr.Un1k0d3r – Offensive Coding [hide01]
+
+## Reverse and Malware Analysis
+1. Reverse Engineering - based on assembely - [https://onhexgroup.ir/software-reverse-engineering-tutorials/]
+2. Assembly Language Programming for Reverse Engineering - [https://www.udemy.com/course/assembly-for-reverse-engineering/?srsltid=AfmBOorhJMzTxqnguIVz6EX_Vm17dbMaUVeYHE_ZYEAzjFl2s2A8rMBQ]
+3. x64 Assembly Language and Reverse Engineering Practicals - [https://www.udemy.com/course/x64-assembly-reverse-engineering-practicals/?srsltid=AfmBOorwn1H4M1VVp9ZcIYiJ0SCh2EMjtauIxgUY347ILUgaGzRhk7sX]
+4. x64dbg Script Programming for Reverse Engineering [Optional] - [https://www.udemy.com/course/x64dbg-script-programming/?srsltid=AfmBOoqH9CtymcxhQc0ANLnl0CU5XgZ_-jkkkUvrl5aarEiRqhrSaH3k]
+5. Windows Malware Analysis for Hedgehogs-Beginner Training - [https://www.udemy.com/course/windows-malware-analysis-for-hedgehogs-beginner-training/?srsltid=AfmBOorKKEvWzqyGQ3q81_q1kJ0kkEpvHq-f5CsY6XIPTs3oWI5iUkzF]
+6. TCM Practical Malware Analysis - [https://academy.tcm-sec.com/p/practical-malware-analysis-triage]
+7. 
