@@ -145,4 +145,6 @@
 4. x64dbg Script Programming for Reverse Engineering [Optional] - [https://www.udemy.com/course/x64dbg-script-programming/?srsltid=AfmBOoqH9CtymcxhQc0ANLnl0CU5XgZ_-jkkkUvrl5aarEiRqhrSaH3k]
 5. Windows Malware Analysis for Hedgehogs-Beginner Training - [https://www.udemy.com/course/windows-malware-analysis-for-hedgehogs-beginner-training/?srsltid=AfmBOorKKEvWzqyGQ3q81_q1kJ0kkEpvHq-f5CsY6XIPTs3oWI5iUkzF]
 6. TCM Practical Malware Analysis - [https://academy.tcm-sec.com/p/practical-malware-analysis-triage]
-7. 
+7. Reverse Engineering and Malware Analysis Fundamentals - [https://www.udemy.com/course/malware-analysis-fundamentals/?srsltid=AfmBOop7zNYWXCgT7c-xD6Z94F5m55IATHgLuVNpgz1qpPlEaj22zZkb]
+8. Reverse Engineering and Malware Analysis - Intermediate level - [https://www.udemy.com/course/malware-analysis-intermediate/?srsltid=AfmBOorUCWn85jnxFPsRy18i6IGqil05iF0utssVgPrniOvXdF6m3NlN]
+
