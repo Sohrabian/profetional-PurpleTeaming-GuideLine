@@ -128,8 +128,9 @@
 - CodeMachine: Windows Malware Techniques [hide01]
 - CodeMachine: Windows Kernel Rootkits [hide01]
 
-5.Malware Development and Reverse Engineering part 01 [downlaodly][https://downloadly.ir/elearning/video-tutorials/malware-development-and-reverse-engineering-1-the-basics/]
-6.Malware Development and Reverse Engineering part 02 [][downlaodly][https://downloadly.ir/elearning/video-tutorials/malware-development-2-advanced-injection-and-api-hooking/]
+5. Pual Chain
+- Malware Development and Reverse Engineering part 01 [downlaodly][https://downloadly.ir/elearning/video-tutorials/malware-development-and-reverse-engineering-1-the-basics/]
+- Malware Development and Reverse Engineering part 02 [][downlaodly][https://downloadly.ir/elearning/video-tutorials/malware-development-2-advanced-injection-and-api-hooking/]
 
 ## Malware Development Advanced
 1.secktor7
