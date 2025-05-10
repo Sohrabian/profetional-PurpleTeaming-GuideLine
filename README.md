@@ -158,4 +158,4 @@
 3. Payload Encryption: Methods and Mitigation | Malware Development | part 2 - [https://medium.com/@satvikhatulkar/payload-encryption-methods-and-mitigation-malware-development-part-2-60a437567d5e]
 4. Process Hollowing | Methods and Mitigation | Malware Development - part 3 - [https://medium.com/@satvikhatulkar/process-hollowing-methods-and-mitigation-malware-development-part-3-51249dea08dd]
 5. DNSAdmins Abuse | LAB - [https://medium.com/@harikrishnanp006/dnsadmins-abuse-aa3d76ed664]
-
+6. Windows Persistence via port Monitors - [https://posts.slayerlabs.com/monitor-persistence/]
