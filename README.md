@@ -152,3 +152,10 @@
 7. Reverse Engineering and Malware Analysis Fundamentals - [https://www.udemy.com/course/malware-analysis-fundamentals/?srsltid=AfmBOop7zNYWXCgT7c-xD6Z94F5m55IATHgLuVNpgz1qpPlEaj22zZkb]
 8. Reverse Engineering and Malware Analysis - Intermediate level - [https://www.udemy.com/course/malware-analysis-intermediate/?srsltid=AfmBOorUCWn85jnxFPsRy18i6IGqil05iF0utssVgPrniOvXdF6m3NlN]
 
+## Practical Resources
+1. Cyber Security Architect | Red/Blue Teaming | Exploit/malware Analysis - [https://rioasmara.com/]
+2. Thread Hijacking | Methods and Mitigation | Malware Development | part 4 - [https://medium.com/@satvikhatulkar/thread-hijacking-methods-and-mitigation-malware-development-part-4-8f539f9c1a2e]
+3. Payload Encryption: Methods and Mitigation | Malware Development | part 2 - [https://medium.com/@satvikhatulkar/payload-encryption-methods-and-mitigation-malware-development-part-2-60a437567d5e]
+4. Process Hollowing | Methods and Mitigation | Malware Development - part 3 - [https://medium.com/@satvikhatulkar/process-hollowing-methods-and-mitigation-malware-development-part-3-51249dea08dd]
+5. DNSAdmins Abuse | LAB - [https://medium.com/@harikrishnanp006/dnsadmins-abuse-aa3d76ed664]
+
