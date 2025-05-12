@@ -131,6 +131,9 @@
 5. Pual Chain
 - Malware Development and Reverse Engineering part 01 [downlaodly][https://downloadly.ir/elearning/video-tutorials/malware-development-and-reverse-engineering-1-the-basics/]
 - Malware Development and Reverse Engineering part 02 [][downlaodly][https://downloadly.ir/elearning/video-tutorials/malware-development-2-advanced-injection-and-api-hooking/]
+6. CourseStack
+- Offensive Development Introduction for Windows v1 [https://redteamleaders.coursestack.com/courses/62c9b0f6-6a0a-488c-870b-4ca0ac754378]
+- Windows API for RedTeam Introduction [https://redteamleaders.coursestack.com/courses/96e8cffc-ac6e-4605-b7e1-39c6c26bd2e8]
 
 ## Malware Development Advanced
 1.secktor7
