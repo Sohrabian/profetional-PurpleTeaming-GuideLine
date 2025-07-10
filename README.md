@@ -162,3 +162,129 @@
 4. Process Hollowing | Methods and Mitigation | Malware Development - part 3 - [https://medium.com/@satvikhatulkar/process-hollowing-methods-and-mitigation-malware-development-part-3-51249dea08dd]
 5. DNSAdmins Abuse | LAB - [https://medium.com/@harikrishnanp006/dnsadmins-abuse-aa3d76ed664]
 6. Windows Persistence via port Monitors - [https://posts.slayerlabs.com/monitor-persistence/]
+
+## BASED ON Hack The Box Academy 
+
+Prerequisite : 
+01- web request [ https://academy.hackthebox.com/module/details/35 ]
+02- Broken Authentication [ https://academy.hackthebox.com/module/details/80 ]
+03- Introduction to web Application [ https://academy.hackthebox.com/module/details/75 ]
+*04- Using Web Proxies [ https://academy.hackthebox.com/module/details/110 ]  - Using Fuzzer
+	prerequisite : 
+		web Requests 
+		Intro to Web Application 
+*05- Web Attacks [ https://academy.hackthebox.com/module/details/134 ]
+	prerequisite :	
+   		*Web Requests
+    		*Introduction to Web Applications
+    		*Using Web Proxies
+   		Linux Fundamentals
+   		Introduction to Bash Scripting
+
+*06- Cross-Site Scripting (xss) [ https://academy.hackthebox.com/module/details/103 ] 
+	prerequisite : 
+		web Requests 
+		Intro to Web Application 
+*07- Session Security [ https://academy.hackthebox.com/module/details/153 ]
+	prerequisite : 
+    		Linux Fundamentals
+    		Web Requests
+    		Introduction to Web Applications
+    		Using Web Proxies
+    		Cross-Site Scripting (XSS)
+*08- SQL Injection Fundamentals [ https://academy.hackthebox.com/module/details/33 ]
+	prerequiste : 	
+  	  	Introduction to Networking
+    		Linux Fundamentals
+    		Introduction to Web Applications
+    		Web Requests
+
+09- File Inclusion Attack [ https://academy.hackthebox.com/module/details/23 ]
+	prerequiste :
+    		Introduction to Networking
+    		Linux Fundamentals
+  		Web Requests
+
+10- File Upload Attacks 
+	prerequiste : 
+		linux fundamentals 
+		web requests 
+		introduction to web applications 
+		using web proxies 
+		web attacks
+------------------------------------------------------------------
+------------------------------------------------------------------
+---------------------- The Advanced Module -----------------------
+------------------------------------------------------------------
+
+*01- Injection Attacks  [ https://academy.hackthebox.com/course/preview/injection-attacks ]
+	Prerequisite : 
+		Introduction to Web Applications 
+		Introduction to Python3
+
+*02- Introduction to NoSQL Injection [ https://academy.hackthebox.com/course/preview/introduction-to-nosql-injection ] 
+	Prerequisite : 
+		Introduction to Python3  
+
+03- Attacking Authentication Mechanisims [ https://academy.hackthebox.com/course/preview/attacking-authentication-mechanisms ]
+	Prerequisite : 
+		Web Attacks
+		Broken Authentication
+
+*04- Advanced XSS and CSRF Exploitation  [ https://academy.hackthebox.com/course/preview/advanced-xss-and-csrf-exploitation ]
+	Prerequisite : 
+		Session Security 
+		Cross-Site Scripting (XSS)
+*05- HTTPs/TLS Attacks [ https://academy.hackthebox.com/module/details/184 ]
+	Prerequisite : 
+		Web Requests 
+		Introduction to Web Application 
+05-01- Abusing HTTP misconfigurations [ https://academy.hackthebox.com/course/preview/abusing-http-misconfigurations ]
+	Prerequisite : 
+		Web Requests 
+		Introduction to web Applications 
+		*Cross-Site Scripting (XSS)
+05-02- HTTP Attacks [ https://academy.hackthebox.com/course/preview/http-attacks ]
+	Prerequisite : 
+		Web Requests
+		Introductions to Web Applications 
+	
+*06- Server-side Attacks (SSRF) [ https://academy.hackthebox.com/module/details/145 ] - SSRF/SSTI/SSI/XSLT
+	Prerequisite : 
+		Linux Fundametals
+		Web Requests
+		Introduction to web Application 
+07- Modern Web Exploitation Techniques [ https://academy.hackthebox.com/course/preview/modern-web-exploitation-techniques ]  
+	Prerequisite : 
+		*Server-side Attacks 
+		*Web Attacks 
+		*File Inclusion
+		*SQL Injection Fundamentals
+*08- Attacking Common Applications [ https://academy.hackthebox.com/module/details/113 ]
+	Prerequisite : 
+		Introduction to NetWorking 
+		Linux Fundamentals 
+		Windows Fundamentals 
+		Web Requests 
+		Introduction to web application
+		Getting Started 
+-----------------------------------------------------------------------
+-------------------- For External Attacks -----------------------------
+-----------------------------------------------------------------------
+
+01- Attacking Enterprise Networks 
+	Prerequistite : 
+		Pentration Tester ( Read Chapter on HIDE01.ir ) [ https://hide01.ir/htb-penetration-tester-path/ ]
+02- Attacking Common Services [ https://academy.hackthebox.com/module/details/116 ]
+	Prerequistite : 	
+    		Linux Fundamentals
+    		Windows Fundamentals
+    		Network Enumeration with Nmap [ https://academy.hackthebox.com/module/details/19 ] 
+    		Footprinting [ https://academy.hackthebox.com/module/details/112 ]
+			prerequisite : 
+				Linux fundamentals 
+				Network Enumeration With NMAP 
+				Introduction to Networking 
+				Windows Fundamentals 
+			
+
