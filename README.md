@@ -287,4 +287,6 @@ Prerequisite :
 				Introduction to Networking 
 				Windows Fundamentals 
 			
-
+## BlueTeam Detection
+1. Splunk UseCase - [https://0xcybery.github.io/blog/Splunk+Use+Cases]
+2. Core Process In Windows - [https://0xcybery.github.io/blog/Core-Processes-In-Windows-System]
